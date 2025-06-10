@@ -2,7 +2,7 @@
 
 - I'm a Frontend Developer based in **Bogotá, Colombia**.
 
-- I started coding when I was 13. Now, at 17, I still have the same passion and motivation to build great digital experiences.
+- I started coding when I was 12. Now, at 17, I still have the same passion and motivation to build great digital experiences.
 
 - I specialize in **Next.js**, **Electron.js**, **React**, **Tailwind CSS**, **HTML**, and **CSS**.
 
