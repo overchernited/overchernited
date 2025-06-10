@@ -1,16 +1,14 @@
-## Hi there 👋
+# **Hi, I'm Marlon!**
 
-<!--
-**overchernited/overchernited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Frontend Developer based in **Bogotá, Colombia**.
 
-Here are some ideas to get you started:
+- I started coding when I was 13. Now, at 17, I still have the same passion and motivation to build great digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I specialize in **Next.js**, **Electron.js**, **React**, **Tailwind CSS**, **HTML**, and **CSS**.
+
+- Always eager to learn new technologies and create projects that make a difference.
+
+
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=overchernited&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overchernited&hide_progress=true&theme=dracula)
